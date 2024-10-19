@@ -17,7 +17,7 @@ export default function About() {
             className='m-[2rem] md:m-[3rem] mt-[6rem] md:mt-[8rem]'>
             <h3 className='text-center text-xl md:text-2xl'>About us</h3>
             <h3 className='text-center leading-7 my-3 text-sm md:text-base lg:text-lg'>
-                    Welcome to <span className='text-[#0056D2]'>Hyperlink</span>, your trusted partner in human resources solutions. 
+                    Welcome to <span className='text-[#0056D2]'>Hyrelink</span>, your trusted partner in human resources solutions. 
                     With a dedicated team and years of experience, we pride ourselves on delivering 
                     tailored HR services that meet the unique needs of businesses.
                 </h3>
@@ -47,7 +47,7 @@ export default function About() {
                     <div className='mb-10 text-center'>
                         <h3 className='text-center text-2xl text-[#0056D2] mb-5'>Our Vision</h3>
                         <p className='text-sm color-[#666] leading-7'>
-                            Our vision Our vision is to empower organzations by connecting them with top talents. 
+                            Our vision is to empower organzations by connecting them with top talents. 
                             We believe in fostering a workplace environment where every employee can grow, contribute, 
                             and feel valued.
                         </p>

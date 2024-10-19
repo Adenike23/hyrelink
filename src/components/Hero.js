@@ -15,7 +15,7 @@ export default function Main() {
             exit={{x: '-100vw', transition: 'easeInOut'}} >
             <div className='w-full max-w-2xl my-[3rem] mt-[7rem] md:mt-[9rem] mx-auto text-center px-4'>
                 <h2 className='text-4xl font-medium'>HR Management Definitely Easy and Simple</h2>
-                <p className='leading-7 mb-[2rem] mt-5'>Simple Operations, Empower Teams, And Optimize Workforce Efficiency. With Our Comprehensive Human Resources Solutions. We provide expert human resources services to help businesses grow and thrive. From recruitment to payroll management, we deliver tailored solutions to meet your organization's needs.</p>
+                <p className='leading-7 mb-[2rem] mt-5'>Simple Operations, Empower Teams, And Optimize Workforce Efficiency. With Our Comprehensive Human Resources Solutions, We Provide Expert Human Resources Services To Help Businesses Grow And Thrive. From Recruitment To Payroll Management, We Deliver Tailored Solutions To Meet Your Organization's Needs.</p>
                 <button className='button'>Get Started For Free</button>
             </div>
 
